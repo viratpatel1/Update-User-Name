@@ -1,0 +1,6 @@
+.Detail {
+  display: flex;
+  background-color: azure;
+  justify-content: space-evenly;
+  margin: 5px 0;
+}
